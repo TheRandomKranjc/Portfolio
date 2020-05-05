@@ -1,0 +1,15 @@
+.roundIMG{
+	border-radius: 50%;
+}
+.kontakt{
+	height: 200px;
+}
+.yeet{
+	padding: 20px;
+}
+.yeet a{
+	color: #999;
+}
+.yeet a:visited{
+	color: #999;
+}
